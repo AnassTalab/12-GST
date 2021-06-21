@@ -15,3 +15,5 @@ function GmeStrt() {
 }
 var timeout = setTimeout(function () { yourFunction() }, 60000);
 var interval = setInterval(function () { yourFunction() }, 1000);
+
+f
